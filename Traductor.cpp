@@ -11,6 +11,7 @@ void desencriptarArchivo();
 int op, optra;
 int main(){
 	
+	
 		cout<<"==========================================";
 		cout<<"\n\t 1. Traductor";
 		cout<<"\n\t 2. Cargar un archivo";
@@ -19,6 +20,8 @@ int main(){
 		cout<<"\n\t 5. Salir\n";
 		cout<<"==========================================";
 		cin>>op;
+		
+		
 	
 }
 
